@@ -8,6 +8,7 @@ __pycache__/
 # Add large files to gitignore
 echo "data/mvtec/" >> .gitignore
 echo "data/synthetic_images.zip" >> .gitignore
+echo "data/synthetic_images" >> .gitignore
 echo "data/lora_training.zip" >> .gitignore
 echo "data/synthetic/" >> .gitignore
 echo "data/real/" >> .gitignore
