@@ -1,0 +1,5 @@
+path: data/mixed
+train: images/train
+val: images/val
+nc: 5
+names: ['color', 'cut', 'fold', 'glue', 'poke']

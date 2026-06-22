@@ -1,0 +1,4 @@
+,mAP50,mAP50-95,Precision,Recall
+real_only,0.8241,0.4334,0.7438,0.7632
+synthetic_only,0.0,0.0,0.0,0.0
+mixed,0.938,0.5158,0.7861,0.8421
