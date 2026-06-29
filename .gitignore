@@ -1,4 +1,5 @@
 venv312/
+<<<<<<< HEAD
 __pycache__/
 *.zip
 data/real_only/
@@ -9,3 +10,14 @@ runs/
 *.cachedata/synthetic_images/
 yolo26n.pt
 yolov8n.pt
+=======
+data/
+models/lora_output/adapter_model.safetensors
+synthetic_images/
+synthetic-data/
+__pycache__/
+*.pt
+*.tar.xz
+*.zip
+.env
+>>>>>>> 88aea0cca6646ed986189f54c36909be6b92fe1e
